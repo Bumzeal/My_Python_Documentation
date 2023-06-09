@@ -1,5 +1,6 @@
 # My_Python_Documentation
-My python Documentation is a Repository that will expose you to All Task Solved by me using Python Programing Language
+###  INTRODDUCTION
+My python Documentation is a Repository that will show you to All Task Solved by me using Python Programing Language
 
 ###  PYTHON FUNCTIONS
 
