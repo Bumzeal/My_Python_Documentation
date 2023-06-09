@@ -1,9 +1,9 @@
 # My_Python_Documentation
 My python Documentation is a Repository that will expose you to All Task Solved by me using Python Program Language
 
-### LET'S WRITE SOME PYTHON FUNCTIONS
+###  PYTHON FUNCTIONS
 
-+ TASK 1 - FIND THE MAX OF THREE NUMBERS
++ TASK 1 - LET'S BUILD A FUNCTION THAT FINDS THE MAX OF THREE NUMBERS
 
 _Step 1. Create a DEF FUNCTION  called max_3_No and that takes parameter ( A,B,C)_
 
