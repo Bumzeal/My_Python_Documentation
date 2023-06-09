@@ -25,6 +25,7 @@ _Step 4. See Result Below_
 
 
 
+
 + TASK 2 - LET'S BUILD A FUNCTION THAT SUM ALL DATA IN A LIST
 
 _step 1 - Define a function ADD_ALL_NO to that take in A parameter of list (L)_
